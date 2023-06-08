@@ -22,7 +22,7 @@ python
 jypyter notebook
 
 google colab
-<br>
+<br><br>
 
 
 #### 데이터 탐색 및 전처리 과정<br>
@@ -74,7 +74,7 @@ jypyter notebook
 
 google colab
 
-<br>
+<br><br>
 
 #### 데이터 탐색 및 전처리 과정<br>
 > train_size = 0.8로 진행했습니다.
@@ -84,7 +84,7 @@ google colab
 3. 해당 주제에서 사용한 모델은 선형회귀, Ridge, lasso, 랜덤포레스트, XG부스트 입니다. <br><br>
 
 <br><br> 
-모델 선정이유는 가장 기초적인 모델인 선형회귀와 규제를 적용하는 Ridge, lasso 의 비교와 랜덤포레스트, XG부스트의 성능 비교를 알아보고 싶어서입니다.<br><br><br>
+모델 선정이유는 가장 기초적인 모델인 선형회귀와 규제를 적용하는 Ridge, lasso 의 비교와 랜덤포레스트, XG부스트의 성능 차이를 알아보고 싶어서입니다.<br><br><br>
 
 
 
@@ -128,7 +128,7 @@ jypyter notebook
 
 google colab<br>
 
-<br>
+<br><br>
 
 #### 데이터 탐색 및 전처리 과정
 
@@ -151,7 +151,7 @@ google colab<br>
 
 
 #### 다시한다면?
-1.  아하와 같이 증명된 약사가 답변을 해주는 사이트에서 학습용 데이터를 수집 후 챗봇 학습시키기 <br><br>
+1.  아하와 같이 증명된 약사가 답변을 해주는 사이트에서 학습용 데이터를 더 많이 수집한 후 챗봇 학습시키기 <br><br>
 2. 스트림릿을 이용해 실제 챗봇과 채팅하는 듯한 효과주기 등이 있습니다.
 
 <br><br><br>
