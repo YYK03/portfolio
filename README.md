@@ -157,7 +157,7 @@ google colab<br>
 <br><br><br>
 ## 정보
 
-김예영 – rjhee98@gmail.com
+김예영 – dantekim0307@gmail.com
 
 
 
