@@ -18,7 +18,7 @@
 대부분의 사람들이 비상상비약의 경고문을 주의 깊게 읽지 않는다는 점에서 약 경고문 데이터를 이용하여 경고문과 부작용을 알려주는 간단한 챗봇을 만들어봤습니다.<br> 
 데이터는 대한약사회에서 직접 셀레니움을 이용해 크롤링 후 전처리, 분석을 진행하였습니다. 
 
-데이터는 대한약사회에서 수집하였습니다.(수집당시에는 url에 jsp가 붙어있었지만 현재는 jsp가 없어지고 url이 바뀌어서 전의 url로 접속이 안됨.)
+데이터는 대한약사회(https://www.kpanet.or.kr/information/search01.jsp)에서 수집하였습니다.(현재는 url이 바뀌어 저 url로 접속이 안됩니다. 바뀐url: https://www.kpanet.or.kr/medicineSearchPage.cm?menuCd=1002110000)
 
 #### 개발 환경 설정
 
@@ -311,4 +311,3 @@ google colab
 <!-- Markdown link & img dfn's -->
 [bike]: https://data.seoul.go.kr/dataList/OA-15248/F/1/datasetView.do#
 [gamgyul]: https://dacon.io/competitions/official/236038/data
-yak: https://www.kpanet.or.kr/information/search01.jsp
